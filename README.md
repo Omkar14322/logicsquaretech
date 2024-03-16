@@ -1,1 +1,1 @@
-# logicsquaretech-Coding Test.
+# logicsquaretech.
